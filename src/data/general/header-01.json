@@ -1,0 +1,12 @@
+{
+    "id": "header-data-1",
+    "logo": [
+        {
+            "src": "/images/logo/prime.png"
+        },
+        {
+            "src": "/images/logo/prime.png"
+        }
+    ],
+    "activity_link": "/activity"
+}

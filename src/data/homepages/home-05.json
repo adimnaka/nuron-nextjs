@@ -1,0 +1,98 @@
+{
+    "title": "home-05",
+    "content": [
+        {
+            "section": "hero-section",
+            "badge": "Prime Finance ",
+            "title": "We are creating unique blockchain-based solutions for the future",
+            "description": " PRIME FINANCE will be a whole ecosystem that will provide features like passive<br/> income, NFT Marketplace, IDO Launchpad, crypto payment method and eventually <br/>an exchange.",
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/login",
+                    "content": "Get Started"
+                },
+                {
+                    "id": 2,
+                    "path": "/create",
+                    "color": "primary-alta",
+                    "content": "Create"
+                }
+            ]
+        },
+        {
+            "section": "top-sller-section",
+            "section_title": {
+                "title": "Top Seller in"
+            }
+        },
+        {
+            "section": "explore-product-section",
+            "section_title": {
+                "title": "Our Mission"
+            }
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Steps to stake your NFTs"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Set up your account",
+                    "path": "/connect",
+                    "subtitle": "Step-01",
+                    "description": "Powerful features and inclusions, which makes Prime Finance standout, easily customizable and scalable.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-7.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Connect your wallet",
+                    "path": "/collection",
+                    "subtitle": "Step-02",
+                    "description": "A great collection of beautiful website templates for your need. Choose the best suitable template.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": " stake your NFT's",
+                    "path": "/connect",
+                    "subtitle": "Step-03",
+                    "description": "We've made the template fully responsive, so it looks great on all devices: desktop, tablets and.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-5.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Claim NFT Reward",
+                    "path": "/creator",
+                    "subtitle": "Step-04",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth NFT's.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-6.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "collection-section",
+            "section_title": {
+                "title": "Pool Rewards"
+            }
+        }
+    ]
+}
